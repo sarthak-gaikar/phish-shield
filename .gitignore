@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# Data and results
+*.csv
+
+# Requirements (if you reinstall them)
+# If requirements.txt was generated, keep it. 
+# If it's a specific environment, you might ignore it.
+# For now, we'll assume you want to share requirements.txt
+
+# Other common Python ignores
+venv/
+.env
